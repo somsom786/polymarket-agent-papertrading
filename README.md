@@ -2,7 +2,8 @@
 
 A terminal-based AI paper trading agent for [Polymarket](https://polymarket.com) prediction markets. Simulate trading with $100,000 virtual balance to see how AI agents behave in prediction market environments.
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1143" height="627" alt="Screenshot 2026-01-01 021355" src="https://github.com/user-attachments/assets/baf408e4-6437-4bfb-8323-0701b2732629" />
+
 
 ## ✨ Features
 
@@ -29,17 +30,18 @@ npm run dev
 ### Markets View
 Browse 500+ active prediction markets sorted by volume. Buy YES or NO positions with a single keypress.
 
-![Markets](screenshots/markets.png)
+<img width="1114" height="665" alt="Screenshot 2026-01-01 021501" src="https://github.com/user-attachments/assets/13793e46-c756-42ca-89ef-5cdb67a057ee" />
+
 
 ### Agent Control
 Configure AI trading strategies, select LLM models, and adjust risk parameters.
 
-![Agent](screenshots/agent.png)
+<img width="1114" height="808" alt="Screenshot 2026-01-01 021429" src="https://github.com/user-attachments/assets/c6289c55-3ad2-423a-82dc-87df619ee7d1" />
 
 ### Multi-Outcome Events
 Trade on complex events with multiple outcomes like "Which CEOs will be gone in 2025?" or Bitcoin price targets.
 
-![Events](screenshots/events.png)
+<img width="1127" height="611" alt="Screenshot 2026-01-01 021453" src="https://github.com/user-attachments/assets/da45fcae-1b76-454e-b65e-c055bce2ef59" />
 
 ## 🎮 Views
 
